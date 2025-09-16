@@ -1,0 +1,1 @@
+import{p as a,v as s}from"./chunk-S5YDGZLY-BVL2-dBu.js";function e(){return a.jsxs("nav",{className:"navbar",children:[a.jsx(s,{to:"/",children:a.jsx("p",{className:"text-2xl font-bold text-gradient",children:"RESUMYZER"})}),a.jsx(s,{to:"/upload",className:"primary-button w-fit",children:"Upload Resume"})]})}export{e as N};
