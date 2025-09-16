@@ -1,4 +1,4 @@
-import{z as pi,a as m,R as Di,p as s,w as zi,x as Ei}from"./chunk-S5YDGZLY-BVL2-dBu.js";import{f as Ua,g as Ai}from"./utils-CLdLQqWL.js";import{N as Fi}from"./Navbar-C3s-geqc.js";import{u as Oi}from"./puter-Q1kI-20-.js";const Pi=`
+import{x as pi,a as m,R as Di,p as s,w as zi,t as Ei}from"./chunk-S5YDGZLY-pyElV2kO.js";import{f as Ua,g as Ai}from"./utils-CLdLQqWL.js";import{N as Fi}from"./Navbar-DJ98PQmD.js";import{u as Oi}from"./puter--geqZyMM.js";const Pi=`
       interface Feedback {
       overallScore: number; //max 100
       ATS: {
